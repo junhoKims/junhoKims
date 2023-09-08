@@ -1,8 +1,10 @@
 <!-- Introducing -->
 <h1>junho Kim</h1>
 
-안녕하세요. 프론트엔드 개발자 김준호입니다. (kraksin12@gmail.com)<br />
+안녕하세요. 프론트엔드 개발자 김준호입니다.<br />
 
+- 이메일: (kraksin12@gmail.com)<br />
+- 노션: ([notion](https://bramble-spoonbill-594.notion.site/a7711a82c75e461bb5324d2c9932f259?pvs=4))
 <!-- Tech Stats -->
 ### Tech Stats
 <table>
